@@ -1,4 +1,5 @@
 # life-watch-greece
+[![build Status](https://travis-ci.org/globalbioticinteractions/life-watch-greece.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/life-watch-greece)
 
 File [LifeWatch Greece Polychaetes.xlsx] was shared by Jen Hammock of EOL. The file is a manual edit of datasets available at http://polytraits.lifewatchgreece.eu/download .
 
