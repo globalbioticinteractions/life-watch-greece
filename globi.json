@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "life-watch-greece"
+  "format": "life-watch-greece",
+  "resources": {
+    "polytraits.lifewatchgreece.eu/pub_tax_trait.csv.gz": "pub_tax_trait.csv.gz"
+  }
 }
