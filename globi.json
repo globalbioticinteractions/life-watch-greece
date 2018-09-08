@@ -2,6 +2,7 @@
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "life-watch-greece",
   "citation": "Faulwetter S, Markantonatou V, Pavloudi C, Papageorgiou N, Keklikoglou K, Chatzinikolaou E, Pafilis E, Chatzigeorgiou G, Vasileiadou K, Dailianis T, Fanini L, Koulouri P, Arvanitidis C (2014) Polytraits: A database on biological traits of marine polychaetes. Biodiversity Data Journal 2: e1024. doi:10.3897/BDJ.2.e1024 . Available at http://polytraits.lifewatchgreece.eu.",
+  "doi": "10.3897/BDJ.2.e1024",
   "resources": {
     "polytraits.lifewatchgreece.eu/pub_tax_trait.csv.gz": "pub_tax_trait.csv.gz"
   }
